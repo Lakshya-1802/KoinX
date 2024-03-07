@@ -34,7 +34,7 @@ function TradingViewWidget() {
     <div
       className="tradingview-widget-container"
       ref={container}
-      style={{ height: "250px", width: "500px" }}
+      style={{ height: "250px" }}
     >
       <div className="tradingview-widget-copyright">
         <a
